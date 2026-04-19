@@ -160,6 +160,8 @@ header .logo {
 
 .services h2 {
     font-weight: bold;
+    font-size: 35px;
+    padding: 10px 0;
 }
 
 .services p {
@@ -176,13 +178,14 @@ header .logo {
 }
 
 .services .services-box div h3 {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: bold;
     padding-top: 15px;
 }
 
 .services .services-box div p {
-    font-size: 13px;
+    font-size: 14px;
+    padding: 8px 0;
 }
 
 .services .services-box div {
@@ -213,6 +216,8 @@ header .logo {
 }
 .picture h2{
     font-weight: bold;
+    font-size: 35px;
+    padding-top: 10px;
 }
 .picture h2 span{
     color: #e23636;
@@ -236,20 +241,21 @@ header .logo {
     padding: 20px;
 }
 .picture .picture-main-box .sub-picture-box .write-box h4{
-    font-size: 15px;
+    font-size: 18px;
     font-weight: bold;
+    padding-bottom: 10px;
 }
 .picture .picture-main-box .sub-picture-box .write-box p{
-    font-size: 13px;
+    font-size: 15px;
     color: #444444;
 }
 .picture button {
-    padding: 8px 17px;
+    padding: 15px 30px;
     border-radius: 30px;
     border: none;
     background-color: #e23636;
     color: white;
-    font-size: 13px;
+    font-size: 15px;
     font-weight: bold;
     margin: 30px 0;
 }
@@ -268,12 +274,14 @@ header .logo {
 .france .left h6{
     color: #e23448;
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: bold;
 }
 .france .left h2{
     color: white;
     padding: 15px 0;
+    font-size: 40px;
+    padding-bottom: 30px;
 }
 .france .left h2 span{
     color: #e23636;
@@ -281,7 +289,7 @@ header .logo {
 .france .left a{
     text-decoration: none;
     color: white;
-    font-size: 14px;
+    font-size: 15px;
     background-color: #e23636;
     padding: 8px;
     border-radius: 30px;
@@ -289,9 +297,9 @@ header .logo {
 }
 .france .left h5{
     color: white;
-    font-size: 15px;
+    font-size: 16px;
     font-weight: bold;
-    padding: 25px 0 13px;
+    margin: 40px 0 20px;
 }
 .france .left p{
     color: #abbdc4;
@@ -307,9 +315,12 @@ header .logo {
     color: #e23636;
     font-weight: bold;
     text-transform: uppercase;
+    font-size: 14px;
 }
 .clients h2{
     font-weight: bold;
+    font-size: 30px;
+    padding-top: 12px;
 }
 .clients .main-clients-box .clients-box .add span{
     font-size: 23px;
@@ -326,11 +337,11 @@ header .logo {
 .clients .main-clients-box .clients-box .text h5{
     font-size: 15px;
     font-weight: 600;
-    margin-bottom: -3px;
 }
 .clients .main-clients-box .clients-box .text p{
     font-size: 13px;
     color: #5f5f5f;
+    padding-bottom: 15px;
 }
 .clients .main-clients-box{
     display: flex;
@@ -583,7 +594,7 @@ summary::after {
     }
     .picture h2{
         font-size: 27px;
-        padding-top: 15px;
+        padding-top: 10px;
     }
     .picture .picture-main-box{
         display: grid;
